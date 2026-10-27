@@ -10,4 +10,4 @@ Git 與自動化 第 3、5、6、7 節的練習 repo。講義：<https://hackmd.
 
 用法：在 GitHub 按 **Use this template → Create a new repository**，建到自己帳號，再 `git clone`。
 
-hahahhahahha
+hahahhahahhcccccccc
